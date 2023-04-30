@@ -1,1 +1,1 @@
-# Mewtwo-Rig-Pokken-Blender-
+# Pokken Mewtwo Rig [Blender Exclusive]
