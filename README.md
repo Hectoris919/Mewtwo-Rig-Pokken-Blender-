@@ -1,4 +1,4 @@
-# Advanced Mewtwo rig for Blender
+# Advanced Mewtwo rig for Blender 3.4+
 
 ![Cover](https://user-images.githubusercontent.com/47396668/235408800-9a3cbf4c-cf74-483a-a8b1-d7c4976828d3.png)
 
